@@ -11,3 +11,5 @@ The program will prompt the user for the directory where the scatterometer files
 **NOTE: The code is setup to parse multiple files in a directory, hence the user need not chose a single file, unless a single file is all that in the chosen directory**
 
 The Output file will contain polarization coefficients: hh, vv, vh, hv and rho, rho_calculated, mu, alpha, and H.
+
+I have included a small folder of 10 C-Band Scatterometer output files, that can be downloaded and run through the code to validate the code.
